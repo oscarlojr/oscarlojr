@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarlojr&show_icons=true&theme=gotham)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=github-readme-stats)](https://github.com/oscarlojr/github-readme-stats)
+
+
+
 <!--
 **oscarlojr/oscarlojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
