@@ -1,8 +1,27 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Javascript and Java
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarlojr&show_icons=true&theme=gotham) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarlojr&layout=compact&show_icons=true&theme=gotham)](https://github.com/oscarlojr)-->
+<a href="https://github.com/oscarlojr/exercicios">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=exercicios&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/oscarlojr/projeto-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=projeto-site&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/oscarlojr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarlojr&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/oscarlojr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarlojr&layout=compact&show_icons=true&theme=gotham" />
+</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarlojr&show_icons=true&theme=gotham)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=github-readme-stats)](https://github.com/oscarlojr/github-readme-stats)
+
+
+
+
+
 
 
 
