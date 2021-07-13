@@ -2,14 +2,14 @@
 - 🌱 I’m currently learning Javascript and Java
 
 
-### 🔭 Public Repositories
+### 🔥 Current Repository 🔰
 
 <a href="https://github.com/oscarlojr/exercicios">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=exercicios&show_icons=true&theme=gotham" />
 </a>
-<a href="https://github.com/oscarlojr/projeto-site">
+<!--<a href="https://github.com/oscarlojr/projeto-site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=projeto-site&show_icons=true&theme=gotham" />
-</a>
+</a>-->
 
 ### ⚡ GitHub stats
 <a href="https://github.com/oscarlojr">
