@@ -4,8 +4,8 @@
 
 ### 🔥 Current Repository 🔰
 
-<a href="https://github.com/oscarlojr/exercicios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=exercicios&show_icons=true&theme=vue" />
+<a href="https://github.com/oscarlojr/logica_com_javascript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=logica_com_javascript&show_icons=true&theme=vue" />
 </a>
 <!--<a href="https://github.com/oscarlojr/projeto-site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=projeto-site&show_icons=true&theme=gotham" />
