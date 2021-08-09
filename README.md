@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Javascript and Java
+- 🌱 I’m currently learning CSharp
 
 
 ### 🔥 Current Repository 🔰
