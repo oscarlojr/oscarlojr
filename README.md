@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🌱 I’m currently learning CSharp
+- 🌱 I’m currently learning JavaScript
 
 
 ### 🔥 Current Repository 🔰
 
-<a href="https://github.com/oscarlojr/CSharp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=CSharp&show_icons=true&theme=vue" />
+<a href="https://github.com/oscarlojr/JavaScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=JavaScript&show_icons=true&theme=vue" />
 </a>
 <!--<a href="https://github.com/oscarlojr/projeto-site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=projeto-site&show_icons=true&theme=gotham" />
