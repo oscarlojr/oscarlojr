@@ -1,14 +1,11 @@
-
-
-
 ### Hi there 👋
 - 🌱 I’m currently learning JavaScript
 
 
 ### 🔥 Current Repository 🔰
 <div align="left"> 
-	<a href="https://github.com/oscarlojr/JavaScript">
-		<img height="180em" width = 49% src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=JavaScript&show_icons=true&theme=vue" />
+	<a href="https://github.com/oscarlojr/to_do_list">
+		<img height="180em" width = 49% src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=to_do_list&show_icons=true&theme=vue" />
 	</a>
  </div>
 
