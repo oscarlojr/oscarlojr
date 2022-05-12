@@ -4,8 +4,8 @@
 
 ### 🔥 Current Repository 🔰
 <div align="left"> 
-	<a href="https://github.com/oscarlojr/calculadora_react">
-		<img height="180em" width = 49% src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=calculadora_react&show_icons=true&theme=github_dark" />
+	<a href="https://github.com/oscarlojr/feedback_screenshot_web">
+		<img height="180em" width = 49% src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=feedback_screenshott&show_icons=true&theme=github_dark" />
 	</a>
  </div>
 
