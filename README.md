@@ -4,8 +4,8 @@
 
 ### 🔥 Current Repository 🔰
 <div align="left"> 
-	<a href="https://github.com/oscarlojr/projeto-angular-dio">
-		<img height="180em" width = 49% src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=projeto-angular-dio&show_icons=true&theme=github_dark" />
+	<a href="https://github.com/oscarlojr/todo-angular-udemy">
+		<img height="180em" width = 49% src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=todo-angular-udemy&show_icons=true&theme=github_dark" />
 	</a>
  </div>
 
