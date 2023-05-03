@@ -4,8 +4,8 @@
 
 ### 🔥 Current Repository 🔰
 <div align="left"> 
-	<a href="https://github.com/oscarlojr/pokedex">
-		<img height="180em" width = 49% src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=pokedex&show_icons=true&theme=github_dark" />
+	<a href="https://github.com/oscarlojr/Robotrom2000">
+		<img height="180em" width = 49% src="https://github-readme-stats.vercel.app/api/pin/?username=oscarlojr&repo=Robotrom2000&show_icons=true&theme=github_dark" />
 	</a>
  </div>
 
