@@ -40,4 +40,4 @@
   </a>
 </div>
 
-![](https://github.com/oscarlojr/oscarlojr/blob/main/assets/darksideWaves.svg)
+![](https://github.com/oscarlojr/oscarlojr/blob/main/assets/darksideWaves.json)
