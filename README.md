@@ -1,3 +1,6 @@
+![](https://github.com/oscarlojr/oscarlojr/blob/main/assets/darksideOscarJr.png)
+![](https://github.com/oscarlojr/oscarlojr/blob/main/assets/darksideOscarJr.svg)
+
 ### Hi there 👋
 - 🔰 I’m currently learning Angular
 
