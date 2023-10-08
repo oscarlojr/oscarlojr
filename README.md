@@ -4,7 +4,10 @@
 	<a href="https://www.linkedin.com/in/oscarlojr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 	<a href="mailto:oscarlojr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&Color=black" target="_blank"></a> 
 </div>
+
+<div align = "center">
 - 🔰 I’m currently learning Angular 🌱
+</div>
 
 ### Languages and Tools:  📌
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +32,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ### ⚡ GitHub stats
-<div align="left"> 
+<div align="center"> 
   <a href="https://github.com/oscarlojr">
 	  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscarlojr&show_icons=true&theme=apprentice&include_all_commits=true"/>
 	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarlojr&layout=compact&langs_count=7&theme=apprentice"/>
