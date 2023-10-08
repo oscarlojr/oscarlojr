@@ -39,4 +39,5 @@
 		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=oscarlojr&theme=icegray"/>
   </a>
 </div>
-![](https://lottie.host/?file=af0dae8e-2a95-4d71-a65d-bbbeb8672be1/zVOBpL8ozO.json)
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/af0dae8e-2a95-4d71-a65d-bbbeb8672be1/zVOBpL8ozO.json" background="transparent" speed="1" style="width: 300px; height: 300px" direction="1" mode="normal" loop controls autoplay></lottie-player>
