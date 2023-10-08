@@ -39,3 +39,4 @@
 		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=oscarlojr&theme=icegray"/>
   </a>
 </div>
+![](https://lottie.host/?file=af0dae8e-2a95-4d71-a65d-bbbeb8672be1/zVOBpL8ozO.json)
