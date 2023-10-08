@@ -39,5 +39,3 @@
 		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=oscarlojr&theme=icegray"/>
   </a>
 </div>
-
-![](https://github.com/oscarlojr/oscarlojr/blob/main/assets/darksideWaves.json)
