@@ -3,7 +3,7 @@
 	<a href="https://www.linkedin.com/in/oscarlojr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 	<a href="mailto:oscarlojr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&Color=black" target="_blank"></a> 
 </div>
-> <b>Graduated in Information Systems from Nove de Julho University and in Project Management from USP, I entered the world of technology in 2011, working from supporting Asset Management Systems to Web Development and Systems Analysis. With a solid background in business and client analysis, I currently work as a Software Developer at one of the largest technology companies in Brazil. Understanding the need for Front-End and Back-End development, I decided to publish my projects on my GitHub.</b>
+> <b>Graduated in Information Systems from Nove de Julho University and in Project Management from USP, I entered the world of technology in 2011, working from supporting Asset Management Systems to Web Development and Systems Analysis. With a solid background in business and client analysis, I currently work as a Software Developer at one of the largest technology companies in Brazil. Understanding the need for Front-End and Back-End development, I decided to publish my projects on my GitHub.</b>\
 
 - 🔰 I’m currently learning Angular 🌱
 
