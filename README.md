@@ -34,7 +34,7 @@
 ### ⚡ GitHub stats
 <div align="center"> 
   <a href="https://github.com/oscarlojr">
-	  <img height="180em" src="https://github-readme-stats-xi-gilt-80.vercel.app/api?username=oscarlojr&show_icons=true&theme=apprentice&include_all_commits=true"/>
+	  <!-- <img height="180em" src="https://github-readme-stats-xi-gilt-80.vercel.app/api?username=oscarlojr&show_icons=true&theme=apprentice&include_all_commits=true"/> -->
 	  <img height="180em" src="https://github-readme-stats-xi-gilt-80.vercel.app/api/top-langs/?username=oscarlojr&layout=compact&langs_count=7&theme=apprentice"/>
 	  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=oscarlojr&theme=icegray"/>
   </a>
